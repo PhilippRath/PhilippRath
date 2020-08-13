@@ -1,16 +1,22 @@
 ### Hi there 👋
+I'm a Software Developer / IT Admin / IT Educator / Tech / OpenSource Enthusiast / Environmental Activist living in Chemnitz, Germany. Interested in everything web.
 
-<!--
-**PhilippRath/PhilippRath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :eyes: Eyes on: JS :yellow_heart:, TS :blue_heart:, Angular :heart:, React :blue_heart:, Java (Android) :robot:, Swift (iOS) :apple:
+- 🔭 I’m currently working on @Finden-App, BaumPate
+- 📫 How to reach me: Twitter @PhilippRath
+- 🌱 I’m currently learning JavaScript (becaouse YDKJS, Python (becouse all the Kids wonnt to learn it)
 
-Here are some ideas to get you started:
+### To Do list
+- [x] plant a Tree
+- [x] start a Family
+- [ ] build a Hosue
+- [ ] save the Planet
+- [ ] initiate a usefull openSource Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!--- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
