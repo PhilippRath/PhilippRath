@@ -4,7 +4,7 @@ I'm a Software Developer / IT Admin / IT Educator / Tech / OpenSource Enthusiast
 - :eyes: Eyes on: JS :yellow_heart:, TS :blue_heart:, Angular :heart:, React :blue_heart:, Java (Android) :robot:, Swift (iOS) :apple:
 - 🔭 I’m currently working on @Finden-App, BaumPate
 - 📫 How to reach me: Twitter @PhilippRath
-- 🌱 I’m currently learning JavaScript (becaouse YDKJS, Python (becouse all the Kids wonnt to learn it)
+- 🌱 I’m currently learning JavaScript (becaouse YDKJS, Python (becouse all the Kids want to learn it)
 
 ### To Do list
 - [x] plant a Tree
